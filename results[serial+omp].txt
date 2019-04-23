@@ -1,0 +1,78 @@
+#serial
+
+englishtext
+pattern: ing
+time: 0.001
+result: 44
+----------
+protien
+pattern: KEPAPTTP
+time: 0.02
+result: 17
+----------
+gene
+pattern: agt
+time: 0.062
+result: 49778
+----------
+
+========================================
+
+#omp
+
+Englishtext
+pattern: ing
+---
+threads: 2
+time: 0.002
+result: 44
+---
+threads: 4
+time: 0.001
+result: 44
+---
+threads: 6
+time: 0.001
+result: 44
+---
+threads: 8
+time: 0.002
+result: 44
+------------------------------
+protein
+pattren: KEPAPTTP
+---
+threads: 2
+time: 0.006
+result: 17
+--
+threads: 4
+time: 0.004
+result: 17
+--s
+threads: 6
+time: 0.005
+result: 17
+--
+threads: 8
+time: 0.004
+result: 17
+-------------------------------------------
+gene_ecoli
+pattern: agt
+---
+threads: 2
+time: 0.019
+result: 49778
+-
+threads: 4
+time: 0.014
+result: 49778
+-
+threads: 6
+time: 0.015
+result: 49778
+-
+threads: 8
+time: 0.016
+result: 49778
