@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ahmadthabet/CLionProjects/pthreads_PSMA/main.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+string.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+zconf.h
+-
+time.h
+-
+pthread.h
+-
+

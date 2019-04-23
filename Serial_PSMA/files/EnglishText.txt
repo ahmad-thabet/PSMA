@@ -1,0 +1,92 @@
+Faculty of Engineering and Technology
+Department of Computer Science
+
+Course Information:
+A.	Course Code: COMP438
+B.	Course Name: Special Topics: Parallel and distributed systems
+C.	Prerequisite: COMP336
+D.	Co-requisite: None
+
+Instructors Information:
+A.	Name: Dr. Ahmed Abusnaina 
+B.	Email: aabusnaina@birzeit.edu;
+C.	Office: Masri417
+D.	Office hours: S (10:00-11:00), S (13:00-13:30), M (13:00-13:30), T (13:00 – 13:30), W(10:00-11:00), R(13:00-13:30)
+
+Course Description:
+ 
+
+This course focuses on concepts and principles that arise in the design and implementation of parallel computing and distributed systems. 
+The course will study the principles of parallel computing which include parallel architecture, parallel programming models. 
+Issues such as synchronization, data distribution, load balancing, data partitioning, interconnection networks and data communication will be considered 
+for various parallel architecture such as shared-memory architecture and distributed-memory architecture. 
+In addition, the course covers the basic fundamentals of distributed systems and its issues such as communication, coordination and agreement in distributed systems. 
+Also, the course discusses the recent issues in grid and cloud computing. 
+Course Goals:
+•	Demonstrating the main concepts of parallel computing and distributed systems.
+•	Be able to design parallel algorithms, and easily convert sequential programs to parallel.
+•	Developing and testing parallel programs using one of the parallel computing tools.
+•	Be able to interconnect multiple PCs to construct a distributed system.
+•	Working in-group settings to design and implement larger programming projects.
+Course Outcomes:
+Upon successful completion of this course, the student will be able to:
+A.	Knowledge and understanding
+1.	Understand the fundamental types of parallel computing architectures.
+2.	Understand the fundamentals of distributed systems.
+
+B.	Intellectual/Cognitive skills
+1.	Analyze the complexity of sequential and parallel algorithms. 
+2.	Design and apply appropriate parallel versions of sequential algorithms for solving computing problems.
+
+C.	Subject specific and practical skills
+1.	Apply advanced problem solving techniques using parallel and distributed models to solve computing problems
+2.	Implement different programs using different parallel programming models.
+3.	Implement at least one program using one of distributed systems communication models.
+4.	Writing different scientific reports for recent topics arises in parallel and distributed systems. 
+
+D.	General and transferable skills
+1.	Communication and oral skills by discussing the implementation of projects
+2.	Apply time-management skills 
+3.	State conclusions for the evaluations and comparisons of different algorithms 
+
+Teaching and learning method:
+A.	Lectures – introduce new concepts and theory
+B.	Class discussion and practicing for more understanding and examples
+
+Assessment methods based on outcomes: 
+1.	Exams to asses A1, A2, B1, B2, C1
+2.	Projects to assess B1, B2, C1, C2, C3, D1, D2, D3
+3.	Reports to assess C4, D1, D2, D3
+
+Weighting of assessments:
+Final Exam	40%
+First Exam 	15%
+Second Exam 	15%
+Projects and Reports 	30% 
+
+References:
+A.	Essential books /text books
+•	Calvin Lin and Larry Snyder, Parallel Programming, Addison Wesley, 2009
+•	Ananth Grama, Anshul Gupta, George Karypsis and Vipin Kumar, Introduction to Parallel Computing Second Edition, Addison Wesley, 2003
+•	Tanenbaum, A.S. and Van Steen, M., 2007. Distributed systems: principles and paradigms. Prentice-Hall.
+
+B.	Additional reading and resources
+•	Harry F.Jordan and Gita Alaghband, Fundamentals of Parallel Processing, Prentice Hall, 2003
+•	Coulouris, Dollimore and Kindberg, Distributed Systems Concepts and Design, Fourth Edition, Addison Wesley, 2005.
+•	Other research papers will be sent to you through Ritaj.
+
+Course Rules
+
+•	Attendance. Attendance is mandatory. University regulations regarding this matter will be strictly enforced.
+
+•	Academic Honesty. Individual homework assignments must be each student’s own work. Team projects must be the work of all students in the team. Plagiarism or cheating will result in official University disciplinary review.
+
+•	If you use information from a book, article or the Internet, you must provide a reference to that source. Failure to acknowledge the source of a significant idea or approach is considered plagiarism and is not allowed.
+
+•	Due Dates. All assignments/projects must be submitted through Ritaj (ritaj.birzeit.edu) before the announced deadlines.
+
+•	Late Work. Work (individual and team) that are turned in late are automatically lowered 10% each day.
+
+•	Missed Exams. There are no makeup exams.
+
+•	Etiquette. Please keep all cell phones and other electronic devices turned off during class. If your activities during class are deemed disruptive, you will be asked to leave. Use of a personal computer during class is allowed only for note taking with Instructor permission.
